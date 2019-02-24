@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace csharp
 {
@@ -6,7 +10,14 @@ namespace csharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string name = args[0];
+            Console.WriteLine("Witaj " + name);
+
+            // foreach(var arg in args)
+            // {
+            //     System.Console.WriteLine("Witaj " + arg);
+            // }
+
         }
     }
 }
