@@ -12,7 +12,6 @@ namespace csharp
         {
             ValueTypes();
             
-            
             for (; ; )
             {
                 Greeting();
@@ -20,8 +19,6 @@ namespace csharp
                 Settings();
 
             }
-
-
         }
 
         private static void ValueTypes()

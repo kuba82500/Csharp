@@ -1,0 +1,11 @@
+D:\csharp\dziennik\obj\Debug\netcoreapp2.2\dziennik.csprojAssemblyReference.cache
+D:\csharp\dziennik\obj\Debug\netcoreapp2.2\dziennik.csproj.CoreCompileInputs.cache
+D:\csharp\dziennik\obj\Debug\netcoreapp2.2\dziennik.AssemblyInfoInputs.cache
+D:\csharp\dziennik\obj\Debug\netcoreapp2.2\dziennik.AssemblyInfo.cs
+D:\csharp\dziennik\bin\Debug\netcoreapp2.2\dziennik.deps.json
+D:\csharp\dziennik\bin\Debug\netcoreapp2.2\dziennik.runtimeconfig.json
+D:\csharp\dziennik\bin\Debug\netcoreapp2.2\dziennik.runtimeconfig.dev.json
+D:\csharp\dziennik\bin\Debug\netcoreapp2.2\dziennik.dll
+D:\csharp\dziennik\bin\Debug\netcoreapp2.2\dziennik.pdb
+D:\csharp\dziennik\obj\Debug\netcoreapp2.2\dziennik.dll
+D:\csharp\dziennik\obj\Debug\netcoreapp2.2\dziennik.pdb
